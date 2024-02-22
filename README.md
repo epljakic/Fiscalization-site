@@ -1,5 +1,8 @@
 # Fiscalization-site
 
+![Alt text](![image](https://github.com/epljakic/Fiscalization-site/assets/101943011/fe8e4d20-9b55-49b9-b921-d9c0332decc7)
+)
+
 Created a fiscalization site from scratch using HTML, CSS, JavaScript, PHP and MySQL.
 
 There are three types of users of this site: administrator, company and customer.
